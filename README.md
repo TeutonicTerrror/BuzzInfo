@@ -32,9 +32,9 @@ This repository is now public to:
 ## ⚙️ Tech Stack
 
 - HTML5  
-- CSS3  
-- JavaScript  
-- Basic animations (CSS/JS based)  
+- (inline) CSS3  
+- (inline) JavaScript  
+
 
 ---
 
