@@ -32,8 +32,8 @@ This repository is now public to:
 ## ⚙️ Tech Stack
 
 - HTML5  
-- (inline) CSS3  
-- (inline) JavaScript  
+- CSS3  
+- JavaScript  
 
 
 ---
